@@ -1,6 +1,6 @@
 ### Hi there 👋
-# :star_struck: 我是Poison02 
-## :wink: 下面是我的(GitHub)[https://github/poison02]生涯
+# :star_struck: 我是Poison02 ！
+## :wink: 下面是我的 GitHub 生涯~
 ## :grinning: Welcome！
 ### :nerd_face: 目前我还是一名在读大三下的大学生... 
 <!--
