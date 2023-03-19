@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+# :star_struck: 我是Poison02 
+## :wink: 下面是我的(GitHub)[https://github/poison02]生涯
+## :grinning: Welcome！
+### :nerd_face: 目前我还是一名在读大三下的大学生... 
 <!--
 **Poison02/Poison02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poison02&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poison02&show_icons=true&theme=buefy)
 ## Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Poison02&repo=Java-Note)](https://github.com/anuraghazra/github-readme-stats)
 
