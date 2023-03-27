@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Poison02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poison02&show_icons=true&theme=buefy align="left" )
+![Poison02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poison02&show_icons=true&theme=buefy)
 ## Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Poison02&repo=Java-Note)](https://github.com/Poison02/Java-Note)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poison02)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poison02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
