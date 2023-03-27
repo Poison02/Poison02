@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poison02&show_icons=true&theme=buefy)
+![Poison02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poison02&show_icons=true&theme=buefy align="left" )
 ## Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Poison02&repo=Java-Note)](https://github.com/Poison02/Java-Note)
 
