@@ -9,9 +9,9 @@
 
 我的想法就是：**ToBeBetterJavaer！** 
 
-🍢个人博客（temp）：[https://www.zchch.top](https://www.zchch.top)
+🍢个人博客（Halo）：[https://www.zchch.top](https://www.zchch.top)
 
-🥡个人项目文档（temp）：[https://docs.zchch.top/](https://docs.zchch.top/)
+🥡个人项目文档（XLog）：[https://poison02-6566.xlog.app/](https://poison02-6566.xlog.app/)
 
 ## action🤖
 [![GitHub Streak](https://streak-stats.demolab.com?user=Poison02&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
