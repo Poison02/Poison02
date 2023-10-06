@@ -3,15 +3,13 @@
 # 🚀Poison02
 
 - 🎆一名在校大学生
-- ✨准备秋招中
-- 🎉Java后端开发工程师（当然要找到工作之后才是啦）
-- 🎊前端想做react（目前只是想想罢了）
+- ✨秋招中~
+- 🎉Java后端开发工程师
+- 🎊后端做`Java`，前端做`React`
 
 我的想法就是：**ToBeBetterJavaer！** 
 
-🍢个人博客（temp）：[https://www.zchch.top](https://www.zchch.top)
-
-🥡个人项目文档（temp）：[https://docs.zchch.top/](https://docs.zchch.top/)
+🍢个人博客（基于Halo）：[https://www.zchch.top](https://www.zchch.top/)
 
 ## action🤖
 [![GitHub Streak](https://streak-stats.demolab.com?user=Poison02&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
