@@ -10,9 +10,3 @@
 我的想法就是：**ToBeBetterJavaer！** 
 
 🍢个人博客（基于Halo）：[https://www.zchch.top](https://www.zchch.top/)
-
-## action🤖
-[![GitHub Streak](https://streak-stats.demolab.com?user=Poison02&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
-
-## Contribution🤖
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Poison02&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
