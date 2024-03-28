@@ -8,5 +8,3 @@
 - 🎊后端做`Java`，前端做`React`
 
 我的想法就是：**ToBeBetterJavaer！** 
-
-站点：[https://poison02.github.io](https://poison02.github.io)
